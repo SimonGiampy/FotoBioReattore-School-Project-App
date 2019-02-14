@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Utene\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.2\5d4eb08a326bdbd7fbbddc769666898c9936b282\MPAndroidChart-v3.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5d4eb08a326bdbd7fbbddc769666898c9936b282">
+        <dex dex="C:\Users\Utene\Desktop\Simon\Apps\Test\FotoBioReattore\app\build\intermediates\pre-dexed\release\MPAndroidChart-v3.0.2_e1c5793f8a65ae401872d5bab4053ef541229554.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utene\Desktop\Simon\Apps\Test\FotoBioReattore\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Utene\Desktop\Simon\Apps\Test\FotoBioReattore\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6cc3bca80b32fdd2492c956108a991ee56a4c49e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Utene\Desktop\Simon\Apps\Test\FotoBioReattore\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="522322a0438fa89cadf674ad97fe62c2d7dcf767">
+        <dex dex="C:\Users\Utene\Desktop\Simon\Apps\Test\FotoBioReattore\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_589e010ae812db804dc50e7a97df97a5bb69032b\classes.dex" />
+    </item>
+
+</items>
