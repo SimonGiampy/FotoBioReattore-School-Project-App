@@ -1,0 +1,96 @@
+﻿<resources>
+    <string name="app_name">Bioreattore ad alghe</string>
+    <string name="intro">
+        <![CDATA[
+            Questa app è stata progettata per dimostrare il funzionamento di un fotobioreattore ad alghe e spiegare le caratteristiche dei vari tipi di impianti e i vantaggi o svantaggi che essi comportano.
+            Quest\'app ha uno scopo illustrativo, con l\'obbiettivo di valorizzare le energia rinnovabili. <br><br>Liceo Scientifico Galileo Galilei Lamezia, Festival della Scienza 2017
+        ]]>
+    </string>
+
+    <string-array name="tipo_contenitori">
+        <item>Seleziona un tipo di contenitore</item>
+        <item>Tubolare</item>
+        <item>A cilindro</item>
+        <item>A pannello</item>
+        <item>Sistema aperto</item>
+    </string-array>
+    <string name="seleziona_container">Scegli il tipo di contenitore del fotobioreattore prima di poterne vedere descrizione e caratteristiche</string>
+    <string name="tubolare_description">I sistemi tubolari sono fotobioreattori a forma di tubo, all\'interno del quale vengono sistemate le alghe e tubi per insuffulare la CO2. Principalmente vengono usati assieme ad una illuminazione artificiale controllata,
+        o nei casi dei sistemi tubolari più grandi anche con la luce solare. I sistemi di tubazioni sono costituiti da una parete sottile in PVC trasparente, sviluppati appositamente per i reattori a forma di tubo, offrendo una buona permeabilità alla luce
+        e massima resistenza ai raggi UV garantendo anche una lunga durata del sistema. Grazie alle specifiche proprietà, questo materiale plastico permette di trasmettere abbastanza luce (sempre seguendo il ciclo circadiano)
+        per attivare e accelerare la fotosintesi delle microalghe, cruciale per la produzione di biomassa. L\'alta qualità e le prestazioni dei componenti garantiscono una facile ed economica piattaforma solida per la produzione e la crescita degli organismi biologici.</string>
+    <string name="pannello_description">I pannelli del fotobioreattore sono alimentati mediante pompe che distribuiscono acqua prefiltrata ed arricchita degli elementi nutritivi necessari alla  crescita delle microalghe (azoto, fosforo ed altri nutrienti)
+        e sono dotati dei necessari dispositivi di scarico, rimescolamento, termoregolazione e monitoraggio/controllo della coltura. Nel caso di sistemi costituiti da più pannelli, è anche possibile isolare idraulicamente le varie unità tramite l\'apertura/chiusura di valvole.
+        Ciascun pannello è provvisto di una struttura a griglia in acciaio verniciato per il contenimento della camera di coltura, di una canaletta in acciaio zincato con funzione di raccolta di fuoriuscite accidentali della coltura e di
+        una linea di distribuzione dell\'aria. Collegato al fotobioreattore c\'è un sistema di tubi di scarico per l\'accumulo dei gas e della biomassa</string>
+    <string name="cilindro_description">I sistemi a colonna (o cilindrica) sono fotobioreattori a forma di un grosso cilindro, all\'interno del quale vengono messe alghe e tubi per insuffulare la CO2, oltre che impianti di illuminazione a neon o fibra ottica.
+        Possono essere anche usati in concomitanza di un impianto solare che convoglia la luce solare sui bioreattori.
+        I cilindri sono costituiti da una parete spessa in vetro o pastica dura trasparente, offrendo una grande disponibilità di spazio per la coltura delle alghe in maniera controllata e per i sensori per il monitoraggio dei parametri dell\'acqua.
+        Questo tipo di fotobioreattore è dotato di un sistema per il rimescolamento della coltura, costituito da alcune piccole pale che muovono le alghe nel fluido. Nel caso di un impianto costituito da più fotobioreattori a colonna,
+        è presente anche il monitoraggio dei parametri su tutte le colonne in modo indipendente, effettuato da un computer connesso a tutti i sensori. </string>
+    <string name="opensystem_description">Gl impianti costituite da vasche a cielo aperto, sono costituiti da una o più vasche di forma ellittica, collegate tra loro. Per alimentare le alghe si impiegano sali minerali oppure reflui urbani e/o gas
+        (in particolare anidride carbonica e ossidi di azoto) emessi da una centrale termoelettrica o da un cementificio nelle vicinanze. Le microalghe, coltivate in queste sorta di piscine, sono un vero e proprio “serbatoio ecologico di anidride carbonica”
+        in grado di trasformare 2 kg di CO2 in 1 kg di biomassa vegetale. Inoltre un\'elica, in continuo movimento, evita l\'accumulo delle alghe sul fondo, assicurando una sufficiente quantità di luce per lo svolgimento della fotosintesi clorofilliana.
+        Queste installazioni sebbene siano costituite da semplici strumentazioni presentano l\'inconveniente di mantenere mutevoli i parametri ambientali come la temperatura, la concentrazione salina, la presenza dei gas disciolti nell\'acqua e le conzidioni meteorologiche</string>
+    <string name="efficienza">Efficienza energetica</string>
+    <string name="costo">Costi di produzione</string>
+    <string name="manutenzione">Facilità di manutenzione</string>
+
+
+    <string-array name="tipo_alghe">
+        <item>Seleziona il tipo di alga</item>
+        <item>Spirulina</item>
+        <item>Chlorella</item>
+        <item>Cyanobacteria</item>
+    </string-array>
+    <string name="seleziona_alga">Scegli il tipo di microalga per il fotobioreattore prima di poterne vedere descrizione e caratteristiche</string>
+    <string name="spirulina_description">L\'alga spirulina è una specie appartenente alla classe Cyanobacteria, che vive in laghi salati con acque alcaline e calde. La coltivazione della spirulina (similmente ad altre microalghe)
+        avviene in bacini, vasche, fotobioreattori e fermentatori con tecniche e volumi diversi secondo la specie coltivata e le particolari applicazioni di produzione. Il processo di coltivazione della Spirulina prevede luce solare ed acqua purissima,
+        una temperatura ottimale di 35°C, e un PH stabile tra 8.5 e 10.5 in modo di creare un ambiente favorevole affinchè la microalga possa crescere e moltiplicarsi al meglio. La spirulina viene immersa nel brodo di coltura
+        (ovvero un fluido contenente sali di ammonio, fosfati e altri composti organici) che permette all\'alga di alimentarsi e produrre più biomassa possibile.</string>
+    <string name="chlorella_description">La clorella (Chlorella), o alga clorella, è una microalga unicellulare che vive nelle acque dolci. È considerata un\'alga utile per disintossicare l\'organismo dato che favorisce l\'espulsione delle scorie e contrasta l\'accumulo di metalli pesanti.
+        In particolare l\'alga clorella contiene vitamina A, vitamina C, vitamine del gruppo B e vitamina E. Inoltre, secondo i numerosi studi condotti nel corso degli anni, la Chlorella sarebbe in grado di agire proprio su alcuni delicati meccanismi fisiologici,
+        la cui alterazione può condurre alla comparsa di malattie e disturbi anche molto pericolosi. Presenta un gran numero di proteine, grassi, carboidrati, fibre, vitamine, sali minerali e pigmenti vegetali.
+        Noterete che la clorella è disponibile sia in polvere che sotto forma di capsule e tavolette. </string>
+    <string name="cyanobacteria_description">I cianobatteri (Cyanobacteria) chiamati anche alghe azzurre, alghe verdi-azzurre o cianoficee, sono un phylum di batteri fotosintetici. Per la fotosintesi i cianobatteri non utilizzano solo quella parte dello spettro visibile che utilizzano anche le piante verdi:
+        oltre alla clorofilla a, possiedono altri pigmenti fotosintetici, in particolare le ficobiline (tra cui la ficocianina (azzurro), la ficoeritrina (rossa) e la alloficocianina) organizzate in ficobilisomi.
+        I cianobatteri sono i ritenuti essere gli organismi che hanno prodotto per primi l\'ossigeno atmosferico come scarto della fotosintesi ossigenica. I cianobatteri sono da considerarsi tra gli organismi bio-costruttori,
+        in quanto la loro attività fotosintetica sottrae CO2 all\'ambiente, inducendo la precipitazione del carbonato di calcio (CaCO3). Questi organismi danno luogo a vere e proprie piattaforme carbonatiche in ambiente sia marino che lacustre.</string>
+    <string name="crescita">Tasso di crescita</string>
+    <string name="reperibilita">Facilità di reperibilità</string>
+    <string name="cibo">Qualità e valori nutrizionali</string>
+
+
+    <string-array name="tipo_prodotto">
+        <item>Seleziona il prodotto finale</item>
+        <item>Biodiesel e idrocarburi</item>
+        <item>Idrogeno</item>
+        <item>Elettricità</item>
+        <item>Depurazione aria</item>
+    </string-array>
+    <string name="seleziona_prodotto">Seleziona il prodotto finale che verrà ottenuto con la trasformazione della biomassa per vederne le caratteristiche e i vantaggi economici che possono portare</string>
+    <string name="biodiesel_description">Il biodiesel derivato dalle alghe è una valida alternativa agli idrocarburi derivati da corza o mais. La differenza sta nel fatto che le alghe prendono la CO2 dall\'aria,
+        e la riemettono sotto forma di gas di scarico della combustione avvenuta. Sempre più spesso si vedono aziende che sfruttano le alghe per produrre biodiesel, che, a differenza degli altri metodi di estrazione, è più produttivo, anche se i costi iniziali sono maggiori.
+        I lipidi, ovvero la parte oliosa della biomassa algale, può essere estratta e convertita in biodiesel attraverso un processo simile a quelli già utilizzati per altri tipi di oli vegetali, o altrimenti convertito in una raffineria e trasformato in diversi rimpiazzi ai sottoprodotti del petrolio.
+        Poichè le cellule delle microalghe crescono in sospensione all\'interno di un fluido nel quale sono mescolati varie sostanze nutritive, il tasso di crescita di questi microorganismi è così elevato da rendere le microalghe il mezzo più efficiente per produrre biomassa.
+        La biomassa prodotta all\'interno dei fotobioreattori può essere facilmente convertito in biodiesel, il quale può essere rivenduto come combustibile per automobili. La ricerca scientifica riguardo lo sfruttamento delle microalghe è in continuo sviluppo, poichè molte aziende
+        si sono rese conto del grosso potenziale economico che potrebbero fruttare la coltivazione a livello industriale questi piccoli organismi.</string>
+    <string name="idrogeno_description">Nella produzione biologica di idrogeno si sfrutta la capacità di alcuni organismi viventi, tra cui le microalghe, di produrre H2 (idrogeno) mediante i loro naturali processi metabolici.
+        Lo scenario scientifico si sta concentrando su un modo per produrre idrogeno pulito e in modo efficiente, e tra le vie migliori quella biologica sembra essere tra la più quotata.
+        Contemporaneamente si ricercano modi più convenienti e sicuri di immagazzinare idrogeno e sfruttare al meglio il processo di fotosintesi clorofilliana. L\'unico intoppo che impedisce l\'impiego della produzione biologica dell\'idrogeno a partire da questi microrganismi unicellulari
+        sta nel sistema fotosintetico: la molecola di idrogeno prodotta è solo transitoria, dopo pochi minuti l\'idrogeno è ritrasformato in una nuova molecola così da portare a termine il ciclo della fotosintesi.</string>
+    <string name="elettricita_description">In un futuro non lontano l\'energia elettrica sarà prodotta da biogas ottenuto con paglia, microalghe e scarti agroindustriali. Si tratta della cosiddetta "bioenergia", l\'energia prodotta dalle biomasse.
+        In questo settore, ricerca e innovazione permettono di ridurre i costi e dimezzare i tempi di produzione del biogas, abbattere gli inquinanti e incrementare le rese energetiche. Per incrementare la produzione di biogas e, allo stesso tempo, ridurre i costi di produzione della biomassa,
+        sono state sfruttate le potenzialità fertilizzanti del digestato, un sottoprodotto della digestione anaerobica, per far crescere colture di microalghe da utilizzarsi per ottenere nuovo biogas dopo il riciclo dei nutrienti. Un esempio di edificio sostenibile da un punto di vista energetico
+         è BIQ House, il primo edificio al mondo, costruito in Germania, a sfruttare le alghe per produrre l\'elettricità utilizzata all\'interno. Si tratta appunto di un edificio il cui fabbisogno energetico è in gran parte coperto da un sistema di coltivazione delle biomasse algali,
+        situato sulle facciate esposte a sud. L\'involucro edilizio è infatti racchiuso in una seconda pelle composta da bioreattori che, filtrando la luce del sole, favoriscono la crescita delle microscopiche alghe, dalle quali si ricava il biometano che alimenta l\'edificio.</string>
+    <string name="depurazione_description">Le micro-alghe sono delle vere e proprie macchine fotosintetiche fino a dieci volte più efficienti dei grandi alberi e dell\'erba. Assorbono grandi quantità di anidride carbonica e producono ossigeno.
+        Grazie a loro è possibile contrastare il rischio di surriscaldamento globale. I prototipi di Algaetecture presentati al Salone del Mobile del 2014 indagano le possibilità e le applicazioni delle alghe in ambito architettonico. Due installazioni, una facciata e una tettoia composte di moduli di micro-alghe,
+        hanno mostrato in anteprima gli innovativi sistemi che sono stati pensati per Future Food District, una delle Aree Tematiche sviluppate per Expo Milano 2015. Oltre ad essere ottimi come rivestimenti architettonici, i sistemi di micro-alghe si configurano come dei veri e propri sistemi di agricoltura urbana
+        che possono essere utilizzati per la produzione di energia o persino in ambito cosmetico. In particolare, Urban Algae Canopy (di cui l\'immagine sopra) è un prototipo della prima copertura bio-digitale al mondo che unisce micro-alghe e protocolli digitali di coltivazione
+        e che potrebbe generare una enorme quantità di ossigeno utile per il Pianeta. Questo prototipo riesce a prelevare l\'anidride carbonica nell\'aria e portarla alle alghe contenute in alcuni pannelli, che sfruttano anche la luce solare per creare la fotosintesi.
+        In questo modo viene prodotto molto più ossigeno di quanto farebbero decine di piante e arbusti in un area molto più grande.</string>
+    <string name="impatto">Impatto ambientale</string>
+    <string name="trasformazione">Costi di trasformazione</string>
+    <string name="guadagno">Guadagno rispetto alle spese</string>
+</resources>
